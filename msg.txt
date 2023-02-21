@@ -1,0 +1,13 @@
+Name	:	fghjk
+Email	:	vbnm@gmail.com
+Mobile	:	4567898765
+Address	:	asda mylavaram
+Date	:	2022-09-21 05:15:00.189361
+No of pages	:	100
+No of copies	:	1
+Type	:	black and white
+Paper Type	:	a4
+Sides	:	one side
+Price	:	1000
+Discount	:	300.0
+Amount	:	700.0
